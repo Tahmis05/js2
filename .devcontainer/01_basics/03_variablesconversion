@@ -1,3 +1,4 @@
 let ss=1
-let st=Number(ss)
-console.log(st)
+let st=String(ss)
+console.log( st)
+console.log(3+3)
