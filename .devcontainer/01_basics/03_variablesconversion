@@ -1,0 +1,3 @@
+let ss=1
+let st=Number(ss)
+console.log(st)
